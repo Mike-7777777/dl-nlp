@@ -1,11 +1,3 @@
-# Information
-
-Repository standard: https://github.com/paperswithcode/releasing-research-code
-
-Qumeng's Note: Please be aware that due to my current network limitations, I can only access the internet through a mobile hotspot with very poor signal. As a result, I am unable to upload our two best models, A and B, at this time. Model A is our best-performing model on SST, and Model B is our best-performing model on average; we have ultimately submitted Model B to the TA. However, I have saved both models locally and they will be available for any future requests.
-
-2023.9.12 Note: We are now updated the best models. Please check the "Pre-trained models" sections.
-
 # `exampasser` nlp project
 
 This repository is a course project for the Natural Language Processing(DNLP) course in the SS23 semester at the University of Göttingen and is maintained by four team members.
